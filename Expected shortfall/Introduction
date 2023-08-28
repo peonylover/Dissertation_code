@@ -1,1 +1,7 @@
 
+This file includes all code for expected shortfall. kmeans is provided by Adreas Grothey(2007) and peter richtarik (2013).
+retm_ascii is the return data matrix used in dissertation.
+1.Es_randomly: choose scenarios randomly
+2.ES_kmean, and kmeans : k-means algorithm
+3.ES_importance sampling: Importance sampling algorithm
+4.ES_iteration, and sequential_procedure: Scenario reduction iteration algorithm
