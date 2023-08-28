@@ -1,2 +1,3 @@
 # Dissertation_code
-This repository includes all code in dissertation project
+The code for CVaR model can be found in CVaR File.
+The code for Expected short can be found in Expected shortfall File.
